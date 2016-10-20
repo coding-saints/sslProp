@@ -15,11 +15,14 @@ body {
 .hero-spacer {
     margin-top: 50px;
     background-image: url("../assets/img/sslpic1.jpg");
-    color: gold;
+    color: white;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
+}
+h1 {
+  color: grey !important;
 }
 #sel1 {
 
